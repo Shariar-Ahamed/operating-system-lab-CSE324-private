@@ -29,14 +29,14 @@ operating-system-lab-CSE324-private/
 │
 ├── README.md
 │
-├── lab-02/
+├── lab-01/
 │   ├── diamond_shape.sh
 │   ├── loop_reverse.sh
 │   ├── loop.sh
 │   ├── problem-2.0.sh
 │   └── problem-2.1.sh
 │
-├── lab-03/
+├── lab-02/
 │   ├── diamond_shape.sh
 │   ├── while_loop.sh
 │   ├── first_to_last_sum.sh
@@ -47,12 +47,12 @@ operating-system-lab-CSE324-private/
 │   ├── continue_skip_number.sh
 │   └── skip_multiple_5_7.sh
 │
-├── lab-04/
+├── lab-03/
 │   ├── fcfs_01.sh
 │   ├── fcfs_02.sh
 │   └── fcfs_03.sh
 │
-└── lab-05/
+└── lab-04/
     ├── fcfs_with_arrival_time.sh
     └── sjf_non_preemptive.sh
 ```
